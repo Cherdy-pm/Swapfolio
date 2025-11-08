@@ -33,3 +33,8 @@ In traditional trading, the "Sell first, then Buy" process creates two major pai
 ## Technology Snapshot
 
 Swapfolio is an API-first service designed for simple integration into partner platforms.
+### 💡 Bonus Visual: Mock UI Wireframe
+
+This mobile mockup illustrates the core user flow, focusing on the Tax Delta as the primary value driver for the investor. It shows the simplicity of swapping a Source Asset for a Target Asset in a single, atomic transaction.
+
+![Swapfolio Mockup] (https://placehold.co/600x400/4F46E5/FFFFFF?text=SWAPFOLIO%20MOBILE%20MOCKUP)
