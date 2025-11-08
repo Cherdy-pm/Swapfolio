@@ -1,4 +1,4 @@
-# Swapfolio: The Atomic Exchange Layer 🚀
+# Swapfolio
 
 ## What is Swapfolio?
 
